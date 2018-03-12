@@ -1,4 +1,5 @@
-# XOR Encryption
+XOR Encryption
+===============
 
 Use it [**here**](http://joeiddon.me/xor_encryption).
 
