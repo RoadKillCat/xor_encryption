@@ -1,7 +1,7 @@
 XOR Encryption
 ===============
 
-Use it [**here**](http://joeiddon.me/xor_encryption).
+Use it [**here**](http://joeiddon.github.io/xor_encryption).
 
 This method of encryption [is pretty poor](https://stackoverflow.com/questions/1135186/whats-wrong-with-xor-encryption), but it serves well as [one-time pad](https://en.wikipedia.org/wiki/One-time_pad) due to the easy of computaiton.
 
